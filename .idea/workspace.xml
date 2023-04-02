@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b3ca44f-2f3f-4d33-bb23-bd1a54eb223d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EbhSgk1ZdjBN3fu5zS7YPQtPaX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../owl" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\cloud-budget\src\libs\owl-carousel" />
+      <recent name="C:\Users\User\Desktop\cloud-budget\src\images\footer" />
+      <recent name="C:\Users\User\Desktop\cloud-budget\src\images\technology" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\cloud-budget\src\libs\jquery" />
+      <recent name="C:\Users\User\Desktop\cloud-budget\src\libs\fancybox" />
+      <recent name="C:\Users\User\Desktop\cloud-budget\src\images\slider" />
+      <recent name="C:\Users\User\Desktop\cloud-budget\src\images\features" />
+      <recent name="C:\Users\User\Desktop\cloud-budget\src\images\video" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b3ca44f-2f3f-4d33-bb23-bd1a54eb223d" name="Default Changelist" comment="" />
+      <created>1662870192359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662870192359</updated>
+      <workItem from="1662870193621" duration="5128000" />
+      <workItem from="1662887688498" duration="39000" />
+      <workItem from="1663388404082" duration="5970000" />
+      <workItem from="1663405635991" duration="1921000" />
+      <workItem from="1664680262463" duration="2280000" />
+      <workItem from="1664682603780" duration="6875000" />
+      <workItem from="1664701530454" duration="10000" />
+      <workItem from="1665198929440" duration="8019000" />
+      <workItem from="1665219763552" duration="29000" />
+      <workItem from="1665287343048" duration="7110000" />
+      <workItem from="1665306441855" duration="236000" />
+      <workItem from="1665807283618" duration="5628000" />
+      <workItem from="1665824823715" duration="440000" />
+      <workItem from="1665893149332" duration="3887000" />
+      <workItem from="1666412720459" duration="4131000" />
+      <workItem from="1668234395408" duration="3547000" />
+      <workItem from="1668320240971" duration="24000" />
+      <workItem from="1671260800877" duration="19000" />
+      <workItem from="1678602417821" duration="17000" />
+      <workItem from="1678604498233" duration="23000" />
+      <workItem from="1678604625298" duration="4000" />
+      <workItem from="1678605089538" duration="12000" />
+      <workItem from="1679121082919" duration="301000" />
+      <workItem from="1679121580170" duration="2308000" />
+      <workItem from="1679206469252" duration="87000" />
+      <workItem from="1680417816960" duration="582000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="523" y="122" key="FileChooserDialogImpl" timestamp="1666417731333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="523" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1666417731333" />
+    <state x="272" y="10" key="SettingsEditor" timestamp="1663389472155">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="272" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1663389472155" />
+    <state x="402" y="49" key="search.everywhere.popup" timestamp="1664687951355">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1664687951355" />
+  </component>
+</project>
